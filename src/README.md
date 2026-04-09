@@ -12,11 +12,9 @@ sudo apt install ros-humble-cartographer-ros
 sudo apt install ros-humble-nav2-map-server
 
 Workspace Setup
-Clone the repository: git clone <your_repository_link>
+Clone the repository: git clone https://github.com/reihalla03-hue/ros2_ws/tree/main
 Navigate to workspace: cd ros2_ws
-Build workspace: source /opt/ros/humble/setup.bash
-colcon build --symlink-install
-source install/setup.bash
+Build workspace: build_ws.sh
 
 Running the Mapping Simulation
 
