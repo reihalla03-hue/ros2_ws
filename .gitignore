@@ -5,3 +5,8 @@ log/
 *.pyc
 __pycache__/
 ghp*
+Dockerfile
+docker-compose.yml
+docker_terminal.sh
+build_ws.sh
+setup.bash
