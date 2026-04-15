@@ -4,3 +4,4 @@ log/
 .bash_history
 *.pyc
 __pycache__/
+ghp*

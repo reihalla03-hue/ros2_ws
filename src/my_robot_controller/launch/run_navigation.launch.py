@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import os
 from launch import LaunchDescription
 from launch_ros.actions import Node
@@ -19,7 +21,7 @@ def generate_launch_description():
     )
     gazebo_world = IncludeLaunchDescription(
         PythonLaunchDescriptionSource(
-                os.path.join(pkg_turtlebot3_gazebo, 'launch', 'turtlebot3_world.launch.py')
+            os.path.join(pkg_turtlebot3_gazebo, 'launch', 'turtlebot3_world.launch.py')
         )
     )
 
