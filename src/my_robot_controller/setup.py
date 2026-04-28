@@ -34,6 +34,7 @@ setup(
             "turtle_controller = my_robot_controller.turtle_controller:main",
             "mapping = my_robot_controller.mapping:main",
             "navigation = my_robot_controller.navigation:main",
+            "aw_nav = my_robot_controller.aw_navigation:main",
         ],
     },
 )
