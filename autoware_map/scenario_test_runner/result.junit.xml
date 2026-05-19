@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<testsuites name="/ros2_ws/autoware_map/scenario_test_runner" failures="0" errors="1" tests="1">
+  <testsuite name="scenario_AW" failures="0" errors="1" tests="1">
+    <testcase name="scenario_AW">
+      <error type="AutowareError" message="Simulator waited for the Autoware state to transition to WaitingForRoute, but time is up. The current Autoware state is EMERGENCY." />
+    </testcase>
+  </testsuite>
+</testsuites>
