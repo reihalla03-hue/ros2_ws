@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<testsuites name="/autoware_map/scenario_test_runner" failures="10" errors="1" tests="125">
+  <testsuite name="scenario_AW" failures="10" errors="1" tests="125">
+    <testcase name="scenario_AW_124" />
+    <testcase name="scenario_AW_118" />
+    <testcase name="scenario_AW_116">
+      <failure type="SimulationFailure" message="CustomCommandAction typed &quot;exitFailure&quot; was triggered by the anonymous Condition (OpenSCENARIO.Storyboard.Story[0].Act[&quot;_EndCondition&quot;].ManeuverGroup[0].Maneuver[0].Event[1].StartTrigger.ConditionGroup[3].Condition[0]): Is any of [ego] colliding with another given entity Npc2?" />
+    </testcase>
+    <testcase name="scenario_AW_115">
+      <failure type="SimulationFailure" message="CustomCommandAction typed &quot;exitFailure&quot; was triggered by the anonymous Condition (OpenSCENARIO.Storyboard.Story[0].Act[&quot;_EndCondition&quot;].ManeuverGroup[0].Maneuver[0].Event[1].StartTrigger.ConditionGroup[3].Condition[0]): Is any of [ego] colliding with another given entity Npc2?" />
+    </testcase>
+    <testcase name="scenario_AW_121">
+      <failure type="SimulationFailure" message="CustomCommandAction typed &quot;exitFailure&quot; was triggered by the anonymous Condition (OpenSCENARIO.Storyboard.Story[0].Act[&quot;_EndCondition&quot;].ManeuverGroup[0].Maneuver[0].Event[1].StartTrigger.ConditionGroup[3].Condition[0]): Is any of [ego] colliding with another given entity Npc2?" />
+    </testcase>
+    <testcase name="scenario_AW_113" />
+    <testcase name="scenario_AW_112" />
+    <testcase name="scenario_AW_111">
+      <failure type="SimulationFailure" message="CustomCommandAction typed &quot;exitFailure&quot; was triggered by the anonymous Condition (OpenSCENARIO.Storyboard.Story[0].Act[&quot;_EndCondition&quot;].ManeuverGroup[0].Maneuver[0].Event[1].StartTrigger.ConditionGroup[3].Condition[0]): Is any of [ego] colliding with another given entity Npc2?" />
+    </testcase>
+    <testcase name="scenario_AW_110">
+      <failure type="SimulationFailure" message="CustomCommandAction typed &quot;exitFailure&quot; was triggered by the anonymous Condition (OpenSCENARIO.Storyboard.Story[0].Act[&quot;_EndCondition&quot;].ManeuverGroup[0].Maneuver[0].Event[1].StartTrigger.ConditionGroup[3].Condition[0]): Is any of [ego] colliding with another given entity Npc2?" />
+    </testcase>
+    <testcase name="scenario_AW_109" />
+    <testcase name="scenario_AW_108" />
+    <testcase name="scenario_AW_106">
+      <failure type="SimulationFailure" message="CustomCommandAction typed &quot;exitFailure&quot; was triggered by the anonymous Condition (OpenSCENARIO.Storyboard.Story[0].Act[&quot;_EndCondition&quot;].ManeuverGroup[0].Maneuver[0].Event[1].StartTrigger.ConditionGroup[3].Condition[0]): Is any of [ego] colliding with another given entity Npc2?" />
+    </testcase>
+    <testcase name="scenario_AW_102" />
+    <testcase name="scenario_AW_120">
+      <failure type="SimulationFailure" message="CustomCommandAction typed &quot;exitFailure&quot; was triggered by the anonymous Condition (OpenSCENARIO.Storyboard.Story[0].Act[&quot;_EndCondition&quot;].ManeuverGroup[0].Maneuver[0].Event[1].StartTrigger.ConditionGroup[3].Condition[0]): Is any of [ego] colliding with another given entity Npc2?" />
+    </testcase>
+    <testcase name="scenario_AW_101">
+      <failure type="SimulationFailure" message="CustomCommandAction typed &quot;exitFailure&quot; was triggered by the anonymous Condition (OpenSCENARIO.Storyboard.Story[0].Act[&quot;_EndCondition&quot;].ManeuverGroup[0].Maneuver[0].Event[1].StartTrigger.ConditionGroup[3].Condition[0]): Is any of [ego] colliding with another given entity Npc2?" />
+    </testcase>
+    <testcase name="scenario_AW_114" />
+    <testcase name="scenario_AW_99" />
+    <testcase name="scenario_AW_98" />
+    <testcase name="scenario_AW_96" />
+    <testcase name="scenario_AW_95" />
+    <testcase name="scenario_AW_93" />
+    <testcase name="scenario_AW_91" />
+    <testcase name="scenario_AW_88" />
+    <testcase name="scenario_AW_87" />
+    <testcase name="scenario_AW_92">
+      <error type="AutowareError" message="Simulator waited for the Autoware state to transition to WaitingForEngage, but time is up. The current Autoware state is PLANNING." />
+    </testcase>
+    <testcase name="scenario_AW_86" />
+    <testcase name="scenario_AW_85" />
+    <testcase name="scenario_AW_83" />
+    <testcase name="scenario_AW_82" />
+    <testcase name="scenario_AW_77" />
+    <testcase name="scenario_AW_100">
+      <failure type="SimulationFailure" message="CustomCommandAction typed &quot;exitFailure&quot; was triggered by the anonymous Condition (OpenSCENARIO.Storyboard.Story[0].Act[&quot;_EndCondition&quot;].ManeuverGroup[0].Maneuver[0].Event[1].StartTrigger.ConditionGroup[3].Condition[0]): Is any of [ego] colliding with another given entity Npc2?" />
+    </testcase>
+    <testcase name="scenario_AW_97" />
+    <testcase name="scenario_AW_76" />
+    <testcase name="scenario_AW_75" />
+    <testcase name="scenario_AW_73" />
+    <testcase name="scenario_AW_72" />
+    <testcase name="scenario_AW_71" />
+    <testcase name="scenario_AW_105">
+      <failure type="SimulationFailure" message="CustomCommandAction typed &quot;exitFailure&quot; was triggered by the anonymous Condition (OpenSCENARIO.Storyboard.Story[0].Act[&quot;_EndCondition&quot;].ManeuverGroup[0].Maneuver[0].Event[1].StartTrigger.ConditionGroup[3].Condition[0]): Is any of [ego] colliding with another given entity Npc2?" />
+    </testcase>
+    <testcase name="scenario_AW_70" />
+    <testcase name="scenario_AW_68" />
+    <testcase name="scenario_AW_69" />
+    <testcase name="scenario_AW_66" />
+    <testcase name="scenario_AW_79" />
+    <testcase name="scenario_AW_65" />
+    <testcase name="scenario_AW_63" />
+    <testcase name="scenario_AW_61" />
+    <testcase name="scenario_AW_60" />
+    <testcase name="scenario_AW_28" />
+    <testcase name="scenario_AW_2" />
+    <testcase name="scenario_AW_24" />
+    <testcase name="scenario_AW_20" />
+    <testcase name="scenario_AW_117" />
+    <testcase name="scenario_AW_25" />
+    <testcase name="scenario_AW_84" />
+    <testcase name="scenario_AW_67" />
+    <testcase name="scenario_AW_22" />
+    <testcase name="scenario_AW_19" />
+    <testcase name="scenario_AW_33" />
+    <testcase name="scenario_AW_103" />
+    <testcase name="scenario_AW_54" />
+    <testcase name="scenario_AW_90" />
+    <testcase name="scenario_AW_59" />
+    <testcase name="scenario_AW_14" />
+    <testcase name="scenario_AW_81" />
+    <testcase name="scenario_AW_23" />
+    <testcase name="scenario_AW_47" />
+    <testcase name="scenario_AW_0" />
+    <testcase name="scenario_AW_1" />
+    <testcase name="scenario_AW_78" />
+    <testcase name="scenario_AW_27" />
+    <testcase name="scenario_AW_18" />
+    <testcase name="scenario_AW_4" />
+    <testcase name="scenario_AW_26" />
+    <testcase name="scenario_AW_3" />
+    <testcase name="scenario_AW_123" />
+    <testcase name="scenario_AW_11" />
+    <testcase name="scenario_AW_35" />
+    <testcase name="scenario_AW_36" />
+    <testcase name="scenario_AW_56" />
+    <testcase name="scenario_AW_5" />
+    <testcase name="scenario_AW_17" />
+    <testcase name="scenario_AW_21" />
+    <testcase name="scenario_AW_62" />
+    <testcase name="scenario_AW_30" />
+    <testcase name="scenario_AW_94" />
+    <testcase name="scenario_AW_55" />
+    <testcase name="scenario_AW_80" />
+    <testcase name="scenario_AW_64" />
+    <testcase name="scenario_AW_12" />
+    <testcase name="scenario_AW_6" />
+    <testcase name="scenario_AW_13" />
+    <testcase name="scenario_AW_10" />
+    <testcase name="scenario_AW_89" />
+    <testcase name="scenario_AW_8" />
+    <testcase name="scenario_AW_7" />
+    <testcase name="scenario_AW_9" />
+    <testcase name="scenario_AW_107" />
+    <testcase name="scenario_AW_44" />
+    <testcase name="scenario_AW_104" />
+    <testcase name="scenario_AW_29" />
+    <testcase name="scenario_AW_31" />
+    <testcase name="scenario_AW_52" />
+    <testcase name="scenario_AW_37" />
+    <testcase name="scenario_AW_41" />
+    <testcase name="scenario_AW_43" />
+    <testcase name="scenario_AW_53" />
+    <testcase name="scenario_AW_74" />
+    <testcase name="scenario_AW_32" />
+    <testcase name="scenario_AW_38" />
+    <testcase name="scenario_AW_39" />
+    <testcase name="scenario_AW_42" />
+    <testcase name="scenario_AW_40" />
+    <testcase name="scenario_AW_119" />
+    <testcase name="scenario_AW_46" />
+    <testcase name="scenario_AW_122" />
+    <testcase name="scenario_AW_34" />
+    <testcase name="scenario_AW_48" />
+    <testcase name="scenario_AW_45" />
+    <testcase name="scenario_AW_49" />
+    <testcase name="scenario_AW_58" />
+    <testcase name="scenario_AW_16" />
+    <testcase name="scenario_AW_50" />
+    <testcase name="scenario_AW_15" />
+    <testcase name="scenario_AW_51" />
+    <testcase name="scenario_AW_57" />
+  </testsuite>
+</testsuites>
